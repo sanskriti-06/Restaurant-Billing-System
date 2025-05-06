@@ -25,9 +25,9 @@ def add(menu,items):
     
         
 def main():
-    menus={"snacks":{"tea":200,"coffee":500,"cookies":450},
-           "lunch":{"roti":200,"dal":500,"rice":450},
-           "dinner":{"panner":200,"pizza":500,"noodles":450}}
+    menus={"snacks":{"tea":80,"coffee":180,"cookies":120},
+           "lunch":{"roti":50,"dal":250,"rice":220},
+           "dinner":{"panner":300,"pizza":550,"noodles":350}}
     print("\t\tWELCOME TO XYZ RESTAURENT")
     while True:
        try:
